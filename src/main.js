@@ -1,7 +1,9 @@
 const b = 1;
 
 function go() {
-  return b;
+  return b
+
+
 }
 
-go();
+go()
